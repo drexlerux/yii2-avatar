@@ -1,0 +1,21 @@
+{
+    "name": "drexlerux/yii2-avatar",
+    "description": "Extension for choose user avatar, for update or create from form",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","avatar","file","photo","profile"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Drexlerux",
+            "email": "drexlerux@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "drexlerux\\avatar\\": ""
+        }
+    }
+}
